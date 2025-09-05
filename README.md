@@ -2,8 +2,6 @@
 
 This repository contains a ready-to-use project that **simulates aircraft flight data** and **trains a Random Forest regressor** to predict fuel consumption (kg/hour) from flight parameters.
 
-> This file is a standalone `README.md` — copy & paste it directly into your project root.
-
 ---
 
 ## Project overview
